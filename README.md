@@ -1,1 +1,1 @@
-<img src="https://i.pinimg.com/736x/91/5d/9c/915d9ca8e978a62ecf5ecbd34244728b.jpg" alt="Story pin image"/><img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/21e2096d-1add-4a01-88f3-11fb08623002" />
+<img src="https://i.pinimg.com/736x/91/5d/9c/915d9ca8e978a62ecf5ecbd34244728b.jpg" alt="Story pin image"/>
