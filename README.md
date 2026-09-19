@@ -15,7 +15,7 @@ $\color{#1d29be}{\textsf{thiscanbefoundonmyinfoontheside}}$ <img width="20" heig
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/36119dd2-6e3d-46d4-af48-726786133d53" />
 <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/fda39477-29b4-47d1-9dd0-898d0c03dbfb" />
 
-   <p align="center"> $\large\color{#e49217}{\textsf{I often make biscuits around people who's skins / presence I enjoy ! However, I am also normally semiafk working on toyhouse or art!}}$
+$\small\color{#e49217}{\textsf{I often make "biscuits" (the dance emote, 4) if I am afk, which is often! However I may also do it if I enjoy your skin :o).}}$
     
  <p align="center"> <img width="157" height="128" alt="image" src="https://github.com/user-attachments/assets/092a0d94-b049-4dd1-8108-fbbc00c7d470" />
 
