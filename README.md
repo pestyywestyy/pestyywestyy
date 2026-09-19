@@ -4,5 +4,11 @@
 <p align="center"> $\color{#1d29be}{\textsf{thiscanbefoundonmyinfoontheside}}$
 <p align="center"><img width="220" alt="image" src="https://github.com/user-attachments/assets/7a1a29d5-f336-4c30-9b26-56c45da60df1" />
 
+<img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/e21d206f-3112-49dd-9864-1d01b711da2f" /> <img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/e534a327-0a45-4274-a52b-61e61a3a44dc" />
+<img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/36119dd2-6e3d-46d4-af48-726786133d53" />
+<img width="150" height="20" alt="image" src="https://github.com/user-attachments/assets/fda39477-29b4-47d1-9dd0-898d0c03dbfb" />
  
  <p align="center"> <img width="157" height="128" alt="image" src="https://github.com/user-attachments/assets/092a0d94-b049-4dd1-8108-fbbc00c7d470" />
+
+
+
