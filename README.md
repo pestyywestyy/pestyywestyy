@@ -2,3 +2,4 @@
  <p align="center"><img width="240" src="https://i.pinimg.com/736x/91/5d/9c/915d9ca8e978a62ecf5ecbd34244728b.jpg" alt="Story pin image"/>
 <p align="center"> $\Large\color{#e49217}{\textsf{Please sign my ata and check my toyhouse/strawpage!}}$
 <p align="center"><img width="220" alt="image" src="https://github.com/user-attachments/assets/7a1a29d5-f336-4c30-9b26-56c45da60df1" />
+<img src="https://static.wikia.nocookie.net/regretevator/images/7/7f/Wiggle_..._2%21.gif/revision/latest?cb=20240412044309" alt="Wiggle_..._2!"/><img width="157" height="128" alt="image" src="https://github.com/user-attachments/assets/092a0d94-b049-4dd1-8108-fbbc00c7d470" />
