@@ -1,6 +1,8 @@
  <p align="center"><img width="140" src="https://komarev.com/ghpvc/?username=pestyywestyy&label=JAOBA+FINDERS&color=e49217" alt="views count">
  <p align="center"><img width="240" src="https://i.pinimg.com/736x/91/5d/9c/915d9ca8e978a62ecf5ecbd34244728b.jpg" alt="Story pin image"/>
-<p align="center"> $\Large\color{#e49217}{\textsf{Please sign my ata and check my toyhouse/strawpage}}$
+<p align="center"> <img src="https://gifcity.carrd.co/assets/images/gallery06/dd433dd4.png?v=3fc8f5cd" alt="Untitled"/> />
+$\Large\color{#e49217}{\textsf{Please sign my ata and check my toyhouse/strawpage}}$ <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/341d5432-163b-444b-ac6f-2ee4b53b7711" />
+
 
 <p align="center"> <img src="https://gifcity.carrd.co/assets/images/gallery03/32e9614e.gif?v=3fc8f5cd" alt="Untitled"/> 
 $\color{#1d29be}{\textsf{thiscanbefoundonmyinfoontheside}}$ <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/072bc585-3b0d-42d0-b4c1-22d2c5c3dfbd" />
