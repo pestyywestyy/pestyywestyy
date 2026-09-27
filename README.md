@@ -5,3 +5,9 @@
   <p align="center">$\Large\color{#a1f3e5}{\textsf{These tormenting visions...}}$  <p align="center">  <img width="500" height="277" alt="image" src="https://github.com/user-attachments/assets/4da081e4-3727-4f2e-b216-30cf8a8a76c6" />
 
  <p align="center"> <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/12aea0e2-2659-4f89-93b8-091238450d4a" />
+
+
+
+
+
+ <p align="center"> <img width="1000" height="298" alt="image" src="https://github.com/user-attachments/assets/5b64e63d-bdb4-41b9-97d3-c210c9a768fc" />
