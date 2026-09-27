@@ -1,3 +1,5 @@
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/e1681fc5-9417-4476-aeea-9f1c2f975068" />
+
  <p align="center"><img width="140" src="https://komarev.com/ghpvc/?username=pestyywestyy&label=blackrock+residents&color=102338" alt="views count">
  <p align="center">$\Large{\textsf{this is a wip lol}}$
-<img width="400" src="[https://media1.tenor.com/m/2k99zKb6S00AAAAC/loki-sylvie.gif](https://i.postimg.cc/Dz0FjHy4/Tumblr-l-153752509004367.gif)" alt="resources1">
+
