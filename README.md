@@ -1,12 +1,11 @@
- <p align="center"> <img width="1000" height="289" alt="image" src="https://github.com/user-attachments/assets/32240144-0de5-49a7-9f06-a9a73f86b5c0" />
+
 
  <p align="center"><img width="140" src="https://komarev.com/ghpvc/?username=pestyywestyy&label=blackrock+residents&color=102338" alt="views count">
 
   <p align="center">$\Large\color{#a1f3e5}{\textsf{These tormenting visions...}}$  <p align="center">  <img width="500" height="277" alt="image" src="https://github.com/user-attachments/assets/4da081e4-3727-4f2e-b216-30cf8a8a76c6" />
  <p align="center">$\color{#a1f3e5}{\textsf{It/one . Read my strawpage and sign my ata.}}$ 
 
-<p align="center"><img width="2048" height="108" alt="image" src="https://github.com/user-attachments/assets/88d1f247-c91c-44b5-93d4-a642ac060e20" />
+<p align="center"><img width="2048" height="141" alt="image" src="https://github.com/user-attachments/assets/6e4ae8e3-78e7-423a-b6df-3df0a4d25e98" />
 
 
 
- <p align="center"> <img width="1000" height="298" alt="image" src="https://github.com/user-attachments/assets/5b64e63d-bdb4-41b9-97d3-c210c9a768fc" />
