@@ -3,4 +3,5 @@
 
  <p align="center"><img width="140" src="https://komarev.com/ghpvc/?username=pestyywestyy&label=blackrock+residents&color=102338" alt="views count">
  <p align="center">$\Large{\textsf{this is a wip lol}}$
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/fecd1d42-94b0-4dd8-bfc3-c91bc7544d1e" />
 
