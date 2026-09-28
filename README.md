@@ -13,7 +13,8 @@
 
   <p align="center">$\Large\color{#a1f3e5}{\textsf{These tormenting visions...}}$
 
-<img width="1600" height="120" alt="image" src="https://github.com/user-attachments/assets/0aaca6a7-4a10-46bb-98ba-f8bd592bf64e" />
+<img width="1600" height="120" alt="image" src="https://github.com/user-attachments/assets/10ba416d-9d3e-4bc5-9e4f-123d61e992ad" />
+
 
 
    
