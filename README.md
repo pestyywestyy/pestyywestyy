@@ -1,8 +1,9 @@
 
 
  <p align="center"><img width="140" src="https://komarev.com/ghpvc/?username=pestyywestyy&label=blackrock+residents&color=102338" alt="views count">
+ 
   
-<img width="250" height="33" alt="image" src="https://github.com/user-attachments/assets/aea35ed5-6772-4f42-ab63-832ea8d84d1b" />
+ <p align="center"> <img width="250" height="33" alt="image" src="https://github.com/user-attachments/assets/aea35ed5-6772-4f42-ab63-832ea8d84d1b" />
 <img width="250" height="33" alt="image" src="https://github.com/user-attachments/assets/8e8e0f0c-31fd-42be-b746-718fc73c227e" />
 
 
