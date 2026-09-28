@@ -11,7 +11,7 @@
 
 <p align="center"><img width="2048" height="141" alt="image" src="https://github.com/user-attachments/assets/6e4ae8e3-78e7-423a-b6df-3df0a4d25e98" />
 
-  <p align="center">$\Large\color{#a1f3e5}{\textsf{These tormenting visions...}}$
+  <p align="center">$\Large\color{#a1f3e5}{\textsf{These tormenting}}$  $\Large\color{#FF000D}{\textsf{visions...}}$ 
 
 <img width="1600" height="120" alt="image" src="https://github.com/user-attachments/assets/10ba416d-9d3e-4bc5-9e4f-123d61e992ad" />
 
