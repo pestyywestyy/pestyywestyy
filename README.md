@@ -15,6 +15,7 @@
  <p align="center">  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9f46dd23-bd40-489a-837c-139753fa79af" /> $\color{#a1f3e5}{\textsf{It/one . }}$ <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/61098b20-1191-430c-a41e-d17d6cd3ff53" />
  $\color{#a1f3e5}{\textsf{Read my strawpage and sign my ata.}}$ <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/24baedb3-fe4e-4659-8ce0-0825ec76b0cc" />
 
+<p align="center">$\Large\color{#a1f3e5}{\textsf{I will rewrite my KINGDOM's FUTURE!}}
 
 <p align="center"><img width="2048" height="141" alt="image" src="https://github.com/user-attachments/assets/6e4ae8e3-78e7-423a-b6df-3df0a4d25e98" />
 
