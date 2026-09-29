@@ -34,3 +34,4 @@
 <img width="99" height="57" alt="image" src="https://github.com/user-attachments/assets/dfd3ff6d-7864-48ad-ba17-ba4ae6015a17" />
 <img width="99" height="55" alt="image" src="https://github.com/user-attachments/assets/6036d22f-3c36-4b67-8aa6-f79fdc4882b1" />
 
+ <p align="center">$\small\color{#a1f3e5}{\textsf{p.s please nominate me as ponytown's cruel king or jaoba <3}}$
