@@ -1,7 +1,10 @@
 
 
- <p align="center"><img width="140" src="https://komarev.com/ghpvc/?username=pestyywestyy&label=blackrock+residents&color=102338" alt="views count">
- 
+ <p align="center"><img width="140" src="https://komarev.com/ghpvc/?username=pestyywestyy&label=blackrock+residents&color=102338" alt="views count"> 
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gmzfl2pke7zddjyltu7moec4r&cover_image=true&theme=novatorem&show_offline=true&background_color=15234c&interchange=true&profanity=false&hide_remaster=false&bar_color=82a2c4&bar_color_cover=false">
+  </a>
+</p>
   
  <p align="center"> <img width="250" height="33" alt="image" src="https://github.com/user-attachments/assets/aea35ed5-6772-4f42-ab63-832ea8d84d1b" />
 <img width="250" height="33" alt="image" src="https://github.com/user-attachments/assets/8e8e0f0c-31fd-42be-b746-718fc73c227e" />
