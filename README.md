@@ -39,3 +39,8 @@
 <img width="99" height="55" alt="image" src="https://github.com/user-attachments/assets/6036d22f-3c36-4b67-8aa6-f79fdc4882b1" />
 
  <p align="center">$\small\color{#a1f3e5}{\textsf{p.s please nominate me as ponytown's cruel king or jaoba <3}}$
+
+ <img width="250" height="33" alt="image" src="https://github.com/user-attachments/assets/8e8e0f0c-31fd-42be-b746-718fc73c227e" />
+<img width="250" height="33" alt="image" src="https://github.com/user-attachments/assets/b256b819-8c29-4bb1-b24b-64dcb38d7b22" />
+<img width="250" height="33" alt="image" src="https://github.com/user-attachments/assets/e37e154f-7ebf-44cf-ac7a-e02e7737a790" />
+
