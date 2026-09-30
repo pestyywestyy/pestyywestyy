@@ -23,7 +23,7 @@
   
  <p align="center">  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/61098b20-1191-430c-a41e-d17d6cd3ff53" />
   
- $\color{#a1f3e5}{\textsf{Read my strawpage and sign my ata.}}$ <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/24baedb3-fe4e-4659-8ce0-0825ec76b0cc" />
+<p align="center">  $\color{#a1f3e5}{\textsf{Read my strawpage and sign my ata.}}$ <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/24baedb3-fe4e-4659-8ce0-0825ec76b0cc" />
 
 <img width="1600" height="120" alt="image" src="https://github.com/user-attachments/assets/10ba416d-9d3e-4bc5-9e4f-123d61e992ad" />
 
